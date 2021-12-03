@@ -1,0 +1,143 @@
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+D:\jual satuan vbnet access\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+D:\jual satuan vbnet access\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
+D:\data Buku VB\Buku VBNet 11\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+D:\data Buku VB\Buku VBNet 11\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+D:\data Buku VB\Buku VBNet 11\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+C:\Documents and Settings\Reksa Anugrah\Desktop\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+D:\d4\Bonus CD VBnet\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+D:\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+D:\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+D:\1 Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+D:\1 Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+C:\Users\user\Desktop\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.exe
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.xml
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.pdb
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.exe
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.pdb
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\bin\Debug\Program Pembelian.xml
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\ResolveAssemblyReference.cache
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Cetak.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanMaster.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.LaporanPembelian.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterBarang.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.masterLogin.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterMenu.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterPerusahaan.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterSupplier.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.MasterUser.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.Resources.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.RincianPembelian.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\WindowsApplication1.TransaksiPembelian.resources
+D:\Program-kuliah\Juli2019\vb.net\Program Pembelian\Program Pembelian\obj\Debug\Program Pembelian.vbproj.GenerateResource.Cache
